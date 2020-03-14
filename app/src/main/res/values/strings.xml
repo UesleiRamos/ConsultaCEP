@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Consulta CEP</string>
+    <string name="buscarCEP">Buscar CEP</string>
+    <string name="buscar_cep">Buscar CEP</string>
+    <string name="logradouro">Logradouro:</string>
+    <string name="complemento">Complemento</string>
+    <string name="sao_paulo">São Paulo</string>
+    <string name="bairro">Bairro:</string>
+    <string name="localidade">Localidade:</string>
+    <string name="uf">UF</string>
+    <string name="nova_consulta">Nova Consulta</string>
+    <string name="cep_invalid">CEP Inválido</string>
+</resources>
