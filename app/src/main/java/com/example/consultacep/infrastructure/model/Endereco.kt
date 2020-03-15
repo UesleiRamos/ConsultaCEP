@@ -1,4 +1,4 @@
-package com.example.consultacep.data
+package com.example.consultacep.infrastructure.model
 
 import java.io.Serializable
 
